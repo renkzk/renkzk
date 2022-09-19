@@ -15,7 +15,7 @@
 <br/>  
 
 
-## Rapidfire  
+# 📌 Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 👾 I’m currently working on my portfolio website.  
@@ -42,7 +42,7 @@
 <br/>  
 
 
-# 🔧 Technologies & Tools
+# 🔧 Languages & Tools
 
 <table>
   <tr>
@@ -197,7 +197,7 @@
 <br/>  
 
 
-## Github Stats  
+# 💻 Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=renkzk&show_icons=true&theme=react&&hide_border=true" align="center" style="width: 98%" />
