@@ -1,6 +1,5 @@
 ## Hey 👋, I'm Renato! I'm a passionate web developer from Italy.  
   
-
 <a href="https://github.com/renkzk" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -11,39 +10,28 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
-
 <br/>  
-
 
 # 📌 Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 👾 I’m currently working on my portfolio website.  
   
-
 - 🎓 I’m currently learning back-end frameworks and databases.  
-  
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
-
 - ⚡ Fun fact: I love practicing martial arts.  
 
-
 </td><td valign="top" width="50%">
-
 <div align="center">
 <img src="https://c.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif" align="center" style="width: 100%" />
 </div>  
-
-
-</td></tr></table>  
+</td></tr></table>
 
 <br/>  
 
-
 # 🔧 Languages & Tools
-
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -194,18 +182,14 @@
     </td>
   </tr>
 </table>
+
 <br/>  
 
-
-# 💻 Github Stats  
+# 💻 Github Stats
 <table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=renkzk&show_icons=true&theme=react&&hide_border=true" align="center" style="width: 98%" />
-
-</td><td valign="top" width="50%">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=renkzk&&theme=react&&hide_border=true" align="center" style="width: 98%" />
-
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=renkzk&show_icons=true&theme=react&&hide_border=true" align="center" style="width: 98%" />
 </td></tr></table>  
 
-<br/>  
+<br/>
