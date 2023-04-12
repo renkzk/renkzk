@@ -15,7 +15,7 @@
 # 📌 Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 👾 I’m currently working on my portfolio website.  
+- 👾 I’m currently working for Lord Of Games.  
   
 - 🎓 I’m currently learning back-end frameworks and databases.  
 
