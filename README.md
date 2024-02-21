@@ -84,6 +84,15 @@
       />
       <br /><strong>Redux</strong>
     </td>
+        <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mobx/mobx-original.svg"
+        width="48"
+        height="48"
+        alt="MobX"
+      />
+      <br /><strong>MobX</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
@@ -92,15 +101,6 @@
         alt="Bootstrap"
       />
       <br /><strong>Bootstrap</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
-        width="48"
-        height="48"
-        alt="Webpack"
-      />
-      <br /><strong>Webpack</strong>
     </td>
   </tr>
   <tr>
@@ -160,12 +160,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
         width="48"
         height="48"
-        alt="Npm"
+        alt="Webpack"
       />
-      <br /><strong>Npm</strong>
+      <br /><strong>Webpack</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
