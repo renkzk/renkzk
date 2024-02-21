@@ -17,12 +17,8 @@
 
 - 👾 I’m currently working for Lord Of Games.  
   
-- 🎓 I’m currently learning back-end frameworks and databases.  
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
-- ⚡ Fun fact: I love practicing martial arts.  
-
 </td><td valign="top" width="50%">
 <div align="center">
 <img src="https://c.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif" align="center" style="width: 100%" />
