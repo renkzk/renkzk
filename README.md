@@ -17,7 +17,6 @@
 
 - 👾 I’m currently working for Lord Of Games.  
   
-- ❓ Ask me about anything related to MERN stack and related technologies  
   
 </td><td valign="top" width="50%">
 <div align="center">
