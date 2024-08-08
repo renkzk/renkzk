@@ -12,20 +12,6 @@
   
 <br/>  
 
-# 📌 Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 👾 I’m currently working for Lord Of Games.  
-  
-  
-</td><td valign="top" width="50%">
-<div align="center">
-<img src="https://c.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif" align="center" style="width: 100%" />
-</div>  
-</td></tr></table>
-
-<br/>  
-
 # 🔧 Languages & Tools
 <table>
   <tr>
