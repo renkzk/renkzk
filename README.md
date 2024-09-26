@@ -62,6 +62,24 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"
+        width="48"
+        height="48"
+        alt="Angular"
+      />
+      <br /><strong>Angular</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+        width="48"
+        height="48"
+        alt="Bootstrap"
+      />
+      <br /><strong>Bootstrap</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
         width="48"
         height="48"
@@ -69,26 +87,27 @@
       />
       <br /><strong>Redux</strong>
     </td>
-        <td align="center" height="108" width="108">
+
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mobx/mobx-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
         width="48"
         height="48"
-        alt="MobX"
+        alt="Java"
       />
-      <br /><strong>MobX</strong>
+      <br /><strong>Java</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
         width="48"
         height="48"
-        alt="Bootstrap"
+        alt="Spring"
       />
-      <br /><strong>Bootstrap</strong>
+      <br /><strong>Spring</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
@@ -97,15 +116,6 @@
         alt="Node.js"
       />
       <br /><strong>Node.js</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="48"
-        height="48"
-        alt="Express"
-      />
-      <br /><strong>Express</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -125,14 +135,23 @@
       />
       <br /><strong>MySQL</strong>
     </td>
-    <td align="center" height="108" width="108">
+                 <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
         width="48"
         height="48"
-        alt="Firebase"
+        alt="PHP"
       />
-      <br /><strong>Firebase</strong>
+      <br /><strong>PHP</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"
+        width="48"
+        height="48"
+        alt="Wordpress"
+      />
+      <br /><strong>Wordpress</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -143,24 +162,7 @@
       />
       <br /><strong>Git</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
-        width="48"
-        height="48"
-        alt="Webpack"
-      />
-      <br /><strong>Webpack</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-        width="48"
-        height="48"
-        alt="Jest"
-      />
-      <br /><strong>Jest</strong>
-    </td>
+
   </tr>
 </table>
 
