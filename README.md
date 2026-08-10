@@ -169,11 +169,13 @@
 <br/>  
 
 # 💻 Github Stats
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=renkzk&theme=react&hide_border=true" align="center" style="width: 98%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=renkzk&show_icons=true&theme=react&hide_border=true" align="center" style="width: 98%" />
-</td></tr></table>  
+<table>
+  <tr>
+    <td valign="top" width="100%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=renkzk&theme=react&hide_border=true" align="center" style="width: 98%" />
+    </td>
+  </tr>
+</table>  
 
 <br/>
 
